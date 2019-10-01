@@ -26,5 +26,19 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 - Bug fixes
 - Display & design
 
+# Interview 1
+
+## Willem: What fruits do you consider boring/common?
+## Loane: Strawberries, Rasberries, Bananas
+## Willem: What fruits do you consider exotic/uncommon?
+## Loane: Mangos, peaches, Dragonfruit
+## Willem: Among common fruits, which ones do you like the most?
+## Loane: Bananas, Blueberries, Strawberries
+## Willem: Among exoctic fruits, which ones do you like the most? 
+## Loane: Mangos, peaches, prunes
+## Willem: Out of the common fruit that you like pick one and describe the characteristics that you like about said fruit?
+## Loane: I like bananas because they make me happy and they are sweet, and if I dont eat anything sweet I will go crazy
+## Willem: Out of the exotic fruit that you like pick one and describe the characteristics that you like about said fruit?
+## Loane: I like mangos because they are juicy and they make me happy, also the work that I have to put in to eat the mango, cutting it and all makes it more delicious
 
 
