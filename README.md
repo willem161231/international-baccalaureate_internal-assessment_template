@@ -26,6 +26,11 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 - Bug fixes
 - Display & design
 
+# Scenario 
+
+## My client is my classmate Loane. I chose her as my client because she likes fruit, more specifically she likes more exotic fruits. This point is important to my project as the entire idea is suggesting fruits that are more exotic. In my interview, I asked her about the types of fruits that she likes, both exotic and common, as well as why she enjoys said fruits. Following this interview I realized that I will have to conduct multiple interviews for this product, and create multiple categories of fruits based on their respective exoticness or commonness. For instance, there could be, instead of two tiers of fruits (exotic and common), a multitude of categories. The higher tier being the more exotic, and for a client like Loane, who already enjoys fruits which might be placed in a mid tier of exocticness, the higher tier would be a necessary addition. My proposed product for Loane's problem is a fruit selection program which, based on the type of fruits the client likes, suggest a new, more exotic, fruit. Fruit Fanatic, the name of the program, is the perfect solution to Loane's problem as it gives its recommendations based on her tastes, not only the exoticness of the fruit. 
+
+
 # Interview 1
 
 ### Willem: What fruits do you consider boring/common?
