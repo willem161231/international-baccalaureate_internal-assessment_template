@@ -30,6 +30,10 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 
 ## My client is my classmate Loane. I chose her as my client because she likes fruit, more specifically she likes more exotic fruits. This point is important to my project as the entire idea is suggesting fruits that are more exotic. In my interview, I asked her about the types of fruits that she likes, both exotic and common, as well as why she enjoys said fruits. Following this interview I realized that I will have to conduct multiple interviews for this product, and create multiple categories of fruits based on their respective exoticness or commonness. For instance, there could be, instead of two tiers of fruits (exotic and common), a multitude of categories. The higher tier being the more exotic, and for a client like Loane, who already enjoys fruits which might be placed in a mid tier of exocticness, the higher tier would be a necessary addition. My proposed product for Loane's problem is a fruit selection program which, based on the type of fruits the client likes, suggest a new, more exotic, fruit. Fruit Fanatic, the name of the program, is the perfect solution to Loane's problem as it gives its recommendations based on her tastes, not only the exoticness of the fruit. 
 
+# Rationale
+
+## The software behind Fruit Fanatic will be structured as a database which contains correlative, fruit data. For instance, if the client enters the type of fruits that they like the program will then search its database for the correlating fruit, ie apples to mangos. To code this, I will use Python as the code for classes and libraries is perfect for the type of program I want to create. As mentioned, I will be using libraries and classes frequently in my program as these two codes meet and will fufill the objective of Fruit Fanatic best.  
+
 
 # Interview 1
 
@@ -45,5 +49,6 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 ### Loane: I like bananas because they make me happy and they are sweet, and if I dont eat anything sweet I will go crazy
 ### Willem: Out of the exotic fruit that you like pick one and describe the characteristics that you like about said fruit?
 ### Loane: I like mangos because they are juicy and they make me happy, also the work that I have to put in to eat the mango, cutting it and all makes it more delicious
+
 
 
