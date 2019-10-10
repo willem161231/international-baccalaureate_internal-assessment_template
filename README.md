@@ -59,11 +59,11 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 ### Willem: Among common fruits, which ones do you like the most?
 ### Drew: apples, strawberries, blueberries
 ### Willem: Among exoctic fruits, which ones do you like the most? 
-### Drew: Agave fruit
+### Drew: Pineapple
 ### Willem: Out of the common fruit that you like pick one and describe the characteristics that you like about said fruit?
 ### Drew: Apple: because its refreshing and juicy
 ### Willem: Out of the exotic fruit that you like pick one and describe the characteristics that you like about said fruit?
-### Drew: Agave fruit: sweet, texture good 
+### Drew: Pineapple fruit: sweet, texture good 
 
 
 
