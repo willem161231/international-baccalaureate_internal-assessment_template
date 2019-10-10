@@ -50,5 +50,20 @@ My client is the everyday fruit lover! Anyone who enjoys any kind of fruit is a 
 ### Willem: Out of the exotic fruit that you like pick one and describe the characteristics that you like about said fruit?
 ### Loane: I like mangos because they are juicy and they make me happy, also the work that I have to put in to eat the mango, cutting it and all makes it more delicious
 
+# Interview 2 
+
+### Willem: What fruits do you consider boring/common?
+### Drew: Bananas, apples
+### Willem: What fruits do you consider exotic/uncommon?
+### Drew: Agave fruit,Kiwi, pomegranate 
+### Willem: Among common fruits, which ones do you like the most?
+### Drew: apples, strawberries, blueberries
+### Willem: Among exoctic fruits, which ones do you like the most? 
+### Drew: Agave fruit
+### Willem: Out of the common fruit that you like pick one and describe the characteristics that you like about said fruit?
+### Drew: Apple: because its refreshing and juicy
+### Willem: Out of the exotic fruit that you like pick one and describe the characteristics that you like about said fruit?
+### Drew: Agave fruit: sweet, texture good 
+
 
 
